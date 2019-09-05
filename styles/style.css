@@ -1,0 +1,21 @@
+html {
+	font-size: 10px;
+	font-family: 'Acme', sans-serif; /*taken from google fonts*/
+	background-color: 	gray;
+}
+
+p, h1 {
+	font-size: 40px;
+	text-align: center;
+	width: 500px;
+	margin: 35px auto;
+	background-color: white;
+	padding: 0 0 0 0;
+	border: 5px solid black;
+}
+
+button, input {
+	margin: 0 auto;
+	display: block;
+	text-align: center;
+}
